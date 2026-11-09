@@ -5,7 +5,7 @@ I work on **machine learning for space and remote sensing**: spacecraft telemetr
 
 - **Currently:** label-free cross-mission anomaly detection for spacecraft telemetry, on ESA's Anomaly Detection Benchmark (paper in progress, target IEEE SPACE 2027)
 - **Looking for:** research internships, summer 2027
-- **Reach me:** shataksha45@gmail.com · [X / Twitter](https://x.com/Shataksha45)
+- **Reach me:** shataksha45@gmail.com · [LinkedIn](https://www.linkedin.com/in/shataksha/)
 
 ---
 
